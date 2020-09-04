@@ -7,6 +7,7 @@ export class ItemApi extends LitElement {
         display: inline-flex;
       }
       .card{
+        max-width:245px;
         margin:5px;
         border: 3px solid black;
         font-family: Arial, Helvetica, sans-serif;
